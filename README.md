@@ -4,4 +4,4 @@ Am working on my git commands
 
 ## Local Development
 
-1. step by step day by day is the way to go. 🚶🏿‍♂️🎖️
+1. step by step day by day can make a better day. 🚶🏿‍♂️🎖️
